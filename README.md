@@ -25,9 +25,6 @@ Developed an intuitive interface for users to define tracking zones visually.
 
 💡 Technology Stack: Python, PyTorch, OpenCV, torchvision, DeepSORT
 
-
-GitHub: https://lnkd.in/enJbuUQH
-
 ---
  [![Faster R-CNN and DeepSORT](https://github.com/georaiser/15_ObjectTracking/blob/master/Video2_output2.gif?raw=true)](https://github.com/georaiser/15_ObjectTracking)
 ---

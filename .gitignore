@@ -3,4 +3,6 @@ Video1.mp4
 Video2.mp4
 .ipynb_checkpoints
 .virtual_documents
+__pycache__
 *.pyc
+output/
